@@ -10,3 +10,7 @@ print("Hello World")
 
 **안녕**
 *이건뭐지*
+
+
+print("hi")
+
