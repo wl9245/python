@@ -8,5 +8,5 @@ class Animal():
 def __ init__(self):
 print("Hello World")
 
-**zmffotm**
-*
+**안녕**
+*이건뭐지*
